@@ -22,6 +22,6 @@ Data files
 # 🔍 License
 You may redistribute, republish, and mirror the ISCX NSL-KDD dataset in any form. However, any use or redistribution of the data must include a citation to the NSL-KDD dataset and the paper referenced below.
 
-References: [1] M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, [“A Detailed Analysis of the KDD CUP 99 Data Set](https://ieeexplore.ieee.org/document/5356528) Submitted to Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), 2009.
+References: [1] M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, [“A Detailed Analysis of the KDD CUP 99 Data Set",](https://ieeexplore.ieee.org/document/5356528) Submitted to Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), 2009.
 
 --- 
